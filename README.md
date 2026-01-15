@@ -92,10 +92,6 @@ pip install pandas numpy matplotlib seaborn scikit-learn kagglehub
 
 Contribuições são bem-vindas! Sinta-se à vontade para abrir uma *issue* ou enviar um *pull request* com melhorias no modelo ou novas visualizações.
 
-## 📄 Licença
-
-Este projeto está sob a licença MIT. Verifique o arquivo `LICENSE` para mais detalhes.
-
 ---
 
 *Este projeto foi desenvolvido como parte do meu portfólio de Análise de Dados, demonstrando competências em Machine Learning e Storytelling de Dados. Feedback é sempre apreciado!*
